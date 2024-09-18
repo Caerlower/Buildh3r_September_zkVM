@@ -1,4 +1,4 @@
-# Buildh3r_September_ZKM
+# Buildh3r_September_zkVM
 
 Here's the Usecase I have suggested for zkVM:
 
